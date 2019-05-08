@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JustSimple</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="enter_your_age">enter your age</string>
+    <string name="your_information">your information</string>
+    <string name="display">display</string>
+</resources>
